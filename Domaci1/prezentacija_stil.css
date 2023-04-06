@@ -1,0 +1,60 @@
+body {
+    background-color:#7bd5be;
+}
+
+h1 {
+    text-decoration-line: overline;
+}
+
+h2 {
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#uvod {
+    color:#b32424;
+}
+
+#sadrzaj1 {
+    color:#884021;
+
+}
+
+span {
+    color:#3d3d3a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+}
+
+img {
+    height: 350px;
+    width: auto;
+    opacity: 0.6;
+}
+
+mark {
+    outline-style: solid;
+    outline-color:#b32424;
+    outline-width:4px;
+}
+
+table {
+    text-align: center;
+    color:#642955;
+}
+
+td {
+    border-style: dotted;
+}
+
+th {
+    border-style: double;
+}
+
+.neparan {
+    background-color:#258e25;
+}
+
+.paran {
+    background-color:#81fd81;
+}
